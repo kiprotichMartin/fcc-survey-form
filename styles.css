@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body {
+  font-family: 'Poppins', sans-serif;
+  background: linear-gradient(180deg, rgb(3, 111, 138) 0%, rgba(0, 14, 255, 1) 100%);
+}
+
+.jumbotron {
+  background: transparent;
+  color: white;
+}
+
+main {
+  background-color: rgb(48, 27, 104);
+  color: white;
+}
+
+form {
+  padding: 2rem;
+}
+
+#submit {
+  background-color: rgb(199, 7, 157);
+}
